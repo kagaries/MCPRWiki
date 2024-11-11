@@ -97,4 +97,4 @@ You can now give yourself the effect and start healing!
 
 ## Closing
 
-Creating effect classes is very simple, later we'll take about how effects do effects like mess with your vision and that kind of stuff
+Creating effect classes is very simple, later we'll take about how effects can mess with your vision and that kind of stuff.
