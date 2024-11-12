@@ -46,7 +46,11 @@ This is my (@kagaries) first wiki ever, so it's probably very lack luster and cl
     Find every function of every class at a glance!(1)
     { .annotate }
 
-    1.  This part of the wiki is in currently unavailable.
+    1.  This part of the wiki is in currently under very heavy development.
+
+    ---
+
+    [Reference](./reference/home.md)
 
 <!--    [Reference](./) -->
 
