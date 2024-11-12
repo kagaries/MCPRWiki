@@ -33,200 +33,201 @@ nav:
             - EffectClasses: guides/Beginner/mobeffects/EffectClasses.md
         - Intermediate:
           - Data and You: guides/Intermediate/YouandData.md
-#  - Reference:
-#    - Home: reference/home.md
-#    - Minecraft:
-#      - Advancement:
-#        - Advancement: reference/Minecraft/Advancement/Advancement.md
-#        - AdvancementHolder: reference/Minecraft/Advancement/AdvancementHolder.md
-#        - AdvancementNode: reference/Minecraft/Advancement/AdvancementNode.md
-#        - AdvancementProgress: reference/Minecraft/Advancement/AdvancementProgress.md
-#        - Critereon:
-#          - AbstractCriterionTriggerInstance: reference/Minecraft/Advancement/Critereon/AbstractCriterionTriggerInstance.md
-#      - Client:
-#        - Animation:
-#          - Definitions:
-#            - CamelAnimation: reference/Minecraft/Client/Animation/Definitions/CamelAnimation.md
-#          - AnimationChannel: reference/Minecraft/Client/Animation/AnimationChannel.md
-#        - Color:
-#          - Block:
-#            - BlockColor: reference/Minecraft/Client/Color/Block/BlockColor.md
-#          - Item:
-#            - ItemColor: reference/Minecraft/Client/Color/Item/ItemColor.md
-#        - GUI:
-#          - Components:
-#            - DebugChart:
-#              - AbstractDebugChart: reference/Minecraft/Client/GUI/Components/DebugChart/AbstractDebugChart.md
-#            - Events:
-#              - AbstractContainerEventHandler: reference/Minecraft/Client/GUI/Components/Events/AbstractContainerEventHandler.md
-#            - Spectator:
-#              - SpectatorGui: reference/Minecraft/Client/GUI/Components/Spectator/SpectatorGui.md
-#            - Tabs:
-#              - GridLayoutTab: reference/Minecraft/Client/GUI/Components/Tabs/GridLayoutTab.md
-#            - Toasts:
-#              - AdvancementToast: reference/Minecraft/Client/GUI/Components/Toasts/AdvancementToast.md
-#            - AbstractButton: reference/Minecraft/Client/GUI/Components/AbstractButton.md
-#          - Font:
-#            - Glyphs:
-#              - BakedGlyph: reference/Minecraft/Client/GUI/Font/Glyphs/BakedGlyph.md
-#            - Providers:
-#              - BitmapProvider: reference/Minecraft/Client/GUI/Font/Providers/BitmapProvider.md
-#            - AllMissingGlyphProvider: reference/Minecraft/Client/GUI/Font/AllMissingGlyphProvider.md
-#          - Layouts:
-#            - AbstractLayout: reference/Minecraft/Client/GUI/Layouts/AbstractLayout.md
-#          - Narration:
-#            - NarratableEntry: reference/Minecraft/Client/GUI/Narration/NarratableEntry.md
-#          - Navigation:
-#            - CommonInputs: reference/Minecraft/Client/GUI/Navigation/CommonInputs.md
-#          - Screens:
-#            - Achievement:
-#              - StatsScreen: reference/Minecraft/Client/GUI/Screens/Achievement/StatsScreen.md
-#            - Advancements:
-#              - AdvancementsScreen: reference/Minecraft/Client/GUI/Screens/Advancements/AdvancementsScreen.md
-#            - Controls:
-#              - ControlsScreen: reference/Minecraft/Client/GUI/Screens/Controls/ControlsScreen.md
-#            - Debug:
-#              - GameModeSwitcherScreen: reference/Minecraft/Client/GUI/Screens/Debug/GameModeSwitcherScreen.md
-#            - Inventory:
-#              - Tooltip:
-#                - BelowOrAboveWidgetTooltipPositioner: reference/Minecraft/Client/GUI/Screens/Inventory/Tooltip/BelowOrAboveWidgetTooltipPositioner.md
-#              - AbstractCommandBlockEditScreen: reference/Minecraft/Client/GUI/Screens/Inventory/AbstractCommandBlockEditScreen.md
-#            - Multiplayer:
-#              - JoinMultiplayerScreen: reference/Minecraft/Client/GUI/Screens/Multiplayer/JoinMultiplayerScreen.md
-#            - Packs:
-#              - PackSelectionModel: reference/Minecraft/Client/GUI/Screens/Packs/PackSelectionModel.md
-#            - RecipeBook:
-#              - AbstractFurnaceRecipeBookComponent: reference/Minecraft/Client/GUI/Screens/RecipeBook/AbstractFurnaceRecipeBookComponent.md
-#            - Reporting:
-#              - AbstractReportScreen: reference/Minecraft/Client/GUI/Screens/Reporting/AbstractReportScreen.md
-#            - Social:
-#              - PlayerEntry: reference/Minecraft/Client/GUI/Screens/Social/PlayerEntry.md
-#            - Telemetry:
-#              - TelemetryEventWidget: reference/Minecraft/Client/GUI/Screens/Telemetry/TelemetryEventWidget.md
-#            - WorldSelection:
-#              - ConfirmExperimentalFeaturesScreen: reference/Minecraft/Client/GUI/Screens/WorldSelection/ConfirmExperimentalFeaturesScreen.md
-#            - AccessibilityOnboardingScreen: reference/Minecraft/Client/GUI/Screens/AccessibilityOnboardingScreen.md
-#          - Spectator:
-#            - Categories:
-#              - SpectatorPage: reference/Minecraft/Client/GUI/Spectator/Categories/SpectatorPage.md
-#           - PlayerMenuItem: reference/Minecraft/Client/GUI/Spectator/PlayerMenuItem.md
-#          - ComponentPath: reference/Minecraft/Client/GUI/ComponentPath.md
-#        - Main:
-#          - GameConfig: reference/Minecraft/Client/Main/GameConfig.md
-#        - Model:
-#          - Dragon:
-#            - DragonHeadModel: reference/Minecraft/Client/Model/Dragon/DragonHeadModel.md
-#          - GEOM:
-#            - Builders: 
-#              - CubeDefinition: reference/Minecraft/Client/Model/GEOM/Builders/CubeDefinition.md
-#            - EntityModelSet: reference/Minecraft/Client/Model/GEOM/EntityModelSet.md
-#          - AbstractZombieModel: reference/Minecraft/Client/Model/AbstractZombieModel.md
-#        - Multiplayer:
-#         - Chat:
-#            - Report:
-#              - AbuseReportSender: reference/Minecraft/Client/Multiplayer/Chat/Report/AbuseReportSender.md
-#            - ChatListener: reference/Minecraft/Client/Multiplayer/Chat/ChatListener.md
-#          - Prediction:
-#            - BlockStatePredictionHandler: reference/Minecraft/Client/Multiplayer/Prediction/BlockStatePredictionHandler.md
-#          - Resolver:
-#            - AddressCheck: reference/Minecraft/Client/Multiplayer/Resolver/AddressCheck.md
-#          - AccountProfileKeyPairManager: reference/Minecraft/Client/Multiplayer/AccountProfileKeyPairManager.md
-#        - Particle:
-#          - AshParticle: reference/Minecraft/Client/Particle/AshParticle.md
-#        - Player:
-#          - Inventory:
-#            - Hotbar: reference/Minecraft/Client/Player/Inventory/Hotbar.md
-#          - AbstractClientPlayer: reference/Minecraft/Client/Player/AbstractClientPlayer.md
-#        - Profiling:
-#          - ClientMetricsSamplersProvider: reference/Minecraft/Client/Profiling/ClientMetricsSamplersProvider.md
-#        - Quickplay:
-#          - QuickPlay: reference/Minecraft/Client/Quickplay/QuickPlay.md
-#        - Renderer:
-#          - Block:
-#            - Model:
-#              - MultiPart:
-#                - AndCondition: reference/Minecraft/Client/Renderer/Block/Model/MultiPart/AndCondition.md
-#              - BakedQuad: reference/Minecraft/Client/Renderer/Block/Model/BakedQuad.md
-#            - BlockModelShaper: reference/Minecraft/Client/Renderer/Block/BlockModelShaper.md
-#          - BlockEntity:
-#            - BannerRenderer: reference/Minecraft/Client/Renderer/BlockEntity/BannerRenderer.md 
-#          - Chunk:
-#            - RenderChunk: reference/Minecraft/Client/Renderer/Chunk/RenderChunk.md
-#          - Culling:
-#            - Frustum: reference/Minecraft/Client/Renderer/Culling/Frustum.md
-#          - Debug:
-#            - BeeDebugRenderer: reference/Minecraft/Client/Renderer/Debug/BeeDebugRenderer.md
-#          - Entity:
-#            - Layers:
-#              - ArrowLayer: reference/Minecraft/Client/Renderer/Entity/Layers/ArrowLayer.md
-#            - Player:
-#              - PlayerRenderer: reference/Minecraft/Client/Renderer/Entity/Player/PlayerRenderer.md
-#            - AbstractHorseRenderer: reference/Minecraft/Client/Renderer/Entity/AbstractHorseRenderer.md
-#          - Item:
-#            - ClampedItemPropertyFunction: reference/Minecraft/Client/Renderer/Item/ClampedItemPropertyFunction.md
-#          - Texture:
-#            - Atlas:
-#              - Sources:
-#                - DirectoryLister: reference/Minecraft/Client/Renderer/Texture/Atlas/Sources/DirectoryLister.md
-#              - SpriteResourceLoader: reference/Minecraft/Client/Renderer/Texture/Atlas/SpriteResourceLoader.md
-#            - AbstractTexture: reference/Minecraft/Client/Renderer/Texture/AbstractTexture.md
-#          - BiomeColors: reference/Minecraft/Client/Renderer/BiomeColors.md
-#        - Resources:
-#          - Language:
-#           - ClientLanguage: reference/Minecraft/Client/Resources/Langague/ClientLanguage.md
-#          - Metadata:
-#            - Animation:
-#              - AnimationFrame: reference/Minecraft/Client/Resources/Metadata/Animation/AnimationFrame.md
-#            - GUI:
-#              - GuiMetadataSection: reference/Minecraft/Client/Resources/Metadata/GUI/GuiMetadataSection.md
-#            - Language:
-#              - LanguageMetadataSection: reference/Minecraft/Client/Resources/Metadata/Langague/LanguageMetadataSection.md
-#            - Texture:
-#              - TextureMetadataSection: reference/Minecraft/Client/Resources/Metadata/Texture/TextureMetadataSection.md
-#          - Model:
-#            - AtlasSet: reference/Minecraft/Client/Resources/Model/AtlasSet.md
-#          - Sounds:
-#            - AbstractSoundInstance: reference/Minecraft/Client/Resources/Sounds/AbstractSoundInstance.md
-#          - ClientPackSource: reference/Minecraft/Client/Resources/ClientPackSource.md
-#        - SearchTree:
-#          - FullTextSearchTree: reference/Minecraft/Client/SearchTree/FullTextSearchTree.md
-#        - Server:
-#          - IntegratedPlayerList: reference/Minecraft/Client/Server/IntegratedPlayerList.md
-#        - Sounds:
-#          - AudioStream: reference/Minecraft/Client/Sounds/AudioStream.md
-#        - Telemetry:
-#          - Events:
-#            - AggregatedTelemetryEvent: reference/Minecraft/Client/Telemetry/Events/AggregatedTelemetryEvent.md
-#          - ClientTelemetryManager: reference/Minecraft/Client/Telemetry/ClientTelemetryManager.md
-#        - Tutorial:
-#          - BundleTutorial: reference/Minecraft/Client/Tutorial/BundleTutorial.md
-#        - AttackIndicatorStatus: reference/Minecraft/Client/AttackIndicatorStatus.md
-#      - BlockUtil: reference/Minecraft/BlockUtil.md
-#    - Mojang:
-#      - Blaze3D:
-#        - Audio:
-#          - Channel: reference/Mojang/Blaze3d/Audio/Channel.md
-#        - Font:
-#          - SpaceProvider: reference/Mojang/Blaze3d/Font/SpaceProvider.md
-#        - Pipeline:
-#          - MainTarget: reference/Mojang/Blaze3d/Pipeline/MainTarget.md
-#        - Platform:
-#          - ClipboardManager: reference/Mojang/Blaze3d/Platform/ClipboardManager.md
-#        - Preprocesser:
-#          - GlslPreprocessor: reference/Mojang/Blaze3d/Shaders/GlslPreprocessor.md
-#        - Shaders:
-#          - AbstractUniform: reference/Mojang/Blaze3d/Shaders/AbstractUniform.md
-#        - Systems:
-#          - RenderSystem: reference/Mojang/Blaze3d/Systems/RenderSystem.md
-#        - Vertex:
-#          - BufferBuilder: reference/Mojang/Blaze3d/Vertex/BufferBuilder.md
-#        - Blaze3D: reference/Mojang/Blaze3d/Blaze3D.md
-#      - Math:
-#        - Axis: reference/Mojang/Math/Axis.md
-#      - RealmsClient:
-#        - RealmsAvailability: reference/Mojang/RealmsClient/RealmsAvailability.md
-#    - MCP:
-#      - Start: reference/MCP/Start.md
+  - Reference:
+    - Home: reference/home.md
+    - Minecraft:
+      - Advancement:
+        - Advancement: reference/Minecraft/Advancement/Advancement.md
+        - AdvancementHolder: reference/Minecraft/Advancement/AdvancementHolder.md
+        - AdvancementNode: reference/Minecraft/Advancement/AdvancementNode.md
+        - AdvancementProgress: reference/Minecraft/Advancement/AdvancementProgress.md
+        - AdvancementRequirements: reference/Minecraft/Advancement/AdvancementRequirements.md
+        - Critereon:
+          - AbstractCriterionTriggerInstance: reference/Minecraft/Advancement/Critereon/AbstractCriterionTriggerInstance.md
+      - Client:
+        - Animation:
+          - Definitions:
+            - CamelAnimation: reference/Minecraft/Client/Animation/Definitions/CamelAnimation.md
+          - AnimationChannel: reference/Minecraft/Client/Animation/AnimationChannel.md
+        - Color:
+          - Block:
+            - BlockColor: reference/Minecraft/Client/Color/Block/BlockColor.md
+          - Item:
+            - ItemColor: reference/Minecraft/Client/Color/Item/ItemColor.md
+        - GUI:
+          - Components:
+            - DebugChart:
+              - AbstractDebugChart: reference/Minecraft/Client/GUI/Components/DebugChart/AbstractDebugChart.md
+            - Events:
+              - AbstractContainerEventHandler: reference/Minecraft/Client/GUI/Components/Events/AbstractContainerEventHandler.md
+            - Spectator:
+              - SpectatorGui: reference/Minecraft/Client/GUI/Components/Spectator/SpectatorGui.md
+            - Tabs:
+              - GridLayoutTab: reference/Minecraft/Client/GUI/Components/Tabs/GridLayoutTab.md
+            - Toasts:
+              - AdvancementToast: reference/Minecraft/Client/GUI/Components/Toasts/AdvancementToast.md
+            - AbstractButton: reference/Minecraft/Client/GUI/Components/AbstractButton.md
+          - Font:
+            - Glyphs:
+              - BakedGlyph: reference/Minecraft/Client/GUI/Font/Glyphs/BakedGlyph.md
+            - Providers:
+              - BitmapProvider: reference/Minecraft/Client/GUI/Font/Providers/BitmapProvider.md
+            - AllMissingGlyphProvider: reference/Minecraft/Client/GUI/Font/AllMissingGlyphProvider.md
+          - Layouts:
+            - AbstractLayout: reference/Minecraft/Client/GUI/Layouts/AbstractLayout.md
+          - Narration:
+            - NarratableEntry: reference/Minecraft/Client/GUI/Narration/NarratableEntry.md
+          - Navigation:
+            - CommonInputs: reference/Minecraft/Client/GUI/Navigation/CommonInputs.md
+          - Screens:
+            - Achievement:
+              - StatsScreen: reference/Minecraft/Client/GUI/Screens/Achievement/StatsScreen.md
+            - Advancements:
+              - AdvancementsScreen: reference/Minecraft/Client/GUI/Screens/Advancements/AdvancementsScreen.md
+            - Controls:
+              - ControlsScreen: reference/Minecraft/Client/GUI/Screens/Controls/ControlsScreen.md
+            - Debug:
+              - GameModeSwitcherScreen: reference/Minecraft/Client/GUI/Screens/Debug/GameModeSwitcherScreen.md
+            - Inventory:
+              - Tooltip:
+                - BelowOrAboveWidgetTooltipPositioner: reference/Minecraft/Client/GUI/Screens/Inventory/Tooltip/BelowOrAboveWidgetTooltipPositioner.md
+              - AbstractCommandBlockEditScreen: reference/Minecraft/Client/GUI/Screens/Inventory/AbstractCommandBlockEditScreen.md
+            - Multiplayer:
+              - JoinMultiplayerScreen: reference/Minecraft/Client/GUI/Screens/Multiplayer/JoinMultiplayerScreen.md
+            - Packs:
+              - PackSelectionModel: reference/Minecraft/Client/GUI/Screens/Packs/PackSelectionModel.md
+            - RecipeBook:
+              - AbstractFurnaceRecipeBookComponent: reference/Minecraft/Client/GUI/Screens/RecipeBook/AbstractFurnaceRecipeBookComponent.md
+            - Reporting:
+              - AbstractReportScreen: reference/Minecraft/Client/GUI/Screens/Reporting/AbstractReportScreen.md
+            - Social:
+              - PlayerEntry: reference/Minecraft/Client/GUI/Screens/Social/PlayerEntry.md
+            - Telemetry:
+              - TelemetryEventWidget: reference/Minecraft/Client/GUI/Screens/Telemetry/TelemetryEventWidget.md
+            - WorldSelection:
+              - ConfirmExperimentalFeaturesScreen: reference/Minecraft/Client/GUI/Screens/WorldSelection/ConfirmExperimentalFeaturesScreen.md
+            - AccessibilityOnboardingScreen: reference/Minecraft/Client/GUI/Screens/AccessibilityOnboardingScreen.md
+          - Spectator:
+            - Categories:
+              - SpectatorPage: reference/Minecraft/Client/GUI/Spectator/Categories/SpectatorPage.md
+            - PlayerMenuItem: reference/Minecraft/Client/GUI/Spectator/PlayerMenuItem.md
+          - ComponentPath: reference/Minecraft/Client/GUI/ComponentPath.md
+        - Main:
+          - GameConfig: reference/Minecraft/Client/Main/GameConfig.md
+        - Model:
+          - Dragon:
+            - DragonHeadModel: reference/Minecraft/Client/Model/Dragon/DragonHeadModel.md
+          - GEOM:
+            - Builders: 
+              - CubeDefinition: reference/Minecraft/Client/Model/GEOM/Builders/CubeDefinition.md
+            - EntityModelSet: reference/Minecraft/Client/Model/GEOM/EntityModelSet.md
+          - AbstractZombieModel: reference/Minecraft/Client/Model/AbstractZombieModel.md
+        - Multiplayer:
+          - Chat:
+            - Report:
+              - AbuseReportSender: reference/Minecraft/Client/Multiplayer/Chat/Report/AbuseReportSender.md
+            - ChatListener: reference/Minecraft/Client/Multiplayer/Chat/ChatListener.md
+          - Prediction:
+            - BlockStatePredictionHandler: reference/Minecraft/Client/Multiplayer/Prediction/BlockStatePredictionHandler.md
+          - Resolver:
+            - AddressCheck: reference/Minecraft/Client/Multiplayer/Resolver/AddressCheck.md
+          - AccountProfileKeyPairManager: reference/Minecraft/Client/Multiplayer/AccountProfileKeyPairManager.md
+        - Particle:
+          - AshParticle: reference/Minecraft/Client/Particle/AshParticle.md
+        - Player:
+          - Inventory:
+            - Hotbar: reference/Minecraft/Client/Player/Inventory/Hotbar.md
+          - AbstractClientPlayer: reference/Minecraft/Client/Player/AbstractClientPlayer.md
+        - Profiling:
+          - ClientMetricsSamplersProvider: reference/Minecraft/Client/Profiling/ClientMetricsSamplersProvider.md
+        - Quickplay:
+          - QuickPlay: reference/Minecraft/Client/Quickplay/QuickPlay.md
+        - Renderer:
+          - Block:
+            - Model:
+              - MultiPart:
+                - AndCondition: reference/Minecraft/Client/Renderer/Block/Model/MultiPart/AndCondition.md
+              - BakedQuad: reference/Minecraft/Client/Renderer/Block/Model/BakedQuad.md
+            - BlockModelShaper: reference/Minecraft/Client/Renderer/Block/BlockModelShaper.md
+          - BlockEntity:
+            - BannerRenderer: reference/Minecraft/Client/Renderer/BlockEntity/BannerRenderer.md 
+          - Chunk:
+            - RenderChunk: reference/Minecraft/Client/Renderer/Chunk/RenderChunk.md
+          - Culling:
+            - Frustum: reference/Minecraft/Client/Renderer/Culling/Frustum.md
+          - Debug:
+            - BeeDebugRenderer: reference/Minecraft/Client/Renderer/Debug/BeeDebugRenderer.md
+          - Entity:
+            - Layers:
+              - ArrowLayer: reference/Minecraft/Client/Renderer/Entity/Layers/ArrowLayer.md
+            - Player:
+              - PlayerRenderer: reference/Minecraft/Client/Renderer/Entity/Player/PlayerRenderer.md
+            - AbstractHorseRenderer: reference/Minecraft/Client/Renderer/Entity/AbstractHorseRenderer.md
+          - Item:
+            - ClampedItemPropertyFunction: reference/Minecraft/Client/Renderer/Item/ClampedItemPropertyFunction.md
+          - Texture:
+            - Atlas:
+              - Sources:
+                - DirectoryLister: reference/Minecraft/Client/Renderer/Texture/Atlas/Sources/DirectoryLister.md
+              - SpriteResourceLoader: reference/Minecraft/Client/Renderer/Texture/Atlas/SpriteResourceLoader.md
+            - AbstractTexture: reference/Minecraft/Client/Renderer/Texture/AbstractTexture.md
+          - BiomeColors: reference/Minecraft/Client/Renderer/BiomeColors.md
+        - Resources:
+          - Language:
+            - ClientLanguage: reference/Minecraft/Client/Resources/Langague/ClientLanguage.md
+          - Metadata:
+            - Animation:
+              - AnimationFrame: reference/Minecraft/Client/Resources/Metadata/Animation/AnimationFrame.md
+            - GUI:
+              - GuiMetadataSection: reference/Minecraft/Client/Resources/Metadata/GUI/GuiMetadataSection.md
+            - Language:
+              - LanguageMetadataSection: reference/Minecraft/Client/Resources/Metadata/Langague/LanguageMetadataSection.md
+            - Texture:
+              - TextureMetadataSection: reference/Minecraft/Client/Resources/Metadata/Texture/TextureMetadataSection.md
+          - Model:
+            - AtlasSet: reference/Minecraft/Client/Resources/Model/AtlasSet.md
+          - Sounds:
+            - AbstractSoundInstance: reference/Minecraft/Client/Resources/Sounds/AbstractSoundInstance.md
+          - ClientPackSource: reference/Minecraft/Client/Resources/ClientPackSource.md
+        - SearchTree:
+          - FullTextSearchTree: reference/Minecraft/Client/SearchTree/FullTextSearchTree.md
+        - Server:
+          - IntegratedPlayerList: reference/Minecraft/Client/Server/IntegratedPlayerList.md
+        - Sounds:
+          - AudioStream: reference/Minecraft/Client/Sounds/AudioStream.md
+        - Telemetry:
+          - Events:
+            - AggregatedTelemetryEvent: reference/Minecraft/Client/Telemetry/Events/AggregatedTelemetryEvent.md
+          - ClientTelemetryManager: reference/Minecraft/Client/Telemetry/ClientTelemetryManager.md
+        - Tutorial:
+          - BundleTutorial: reference/Minecraft/Client/Tutorial/BundleTutorial.md
+        - AttackIndicatorStatus: reference/Minecraft/Client/AttackIndicatorStatus.md
+      - BlockUtil: reference/Minecraft/BlockUtil.md
+    - Mojang:
+      - Blaze3D:
+        - Audio:
+          - Channel: reference/Mojang/Blaze3d/Audio/Channel.md
+        - Font:
+          - SpaceProvider: reference/Mojang/Blaze3d/Font/SpaceProvider.md
+        - Pipeline:
+          - MainTarget: reference/Mojang/Blaze3d/Pipeline/MainTarget.md
+        - Platform:
+          - ClipboardManager: reference/Mojang/Blaze3d/Platform/ClipboardManager.md
+        - Preprocesser:
+          - GlslPreprocessor: reference/Mojang/Blaze3d/Shaders/GlslPreprocessor.md
+        - Shaders:
+          - AbstractUniform: reference/Mojang/Blaze3d/Shaders/AbstractUniform.md
+        - Systems:
+          - RenderSystem: reference/Mojang/Blaze3d/Systems/RenderSystem.md
+        - Vertex:
+          - BufferBuilder: reference/Mojang/Blaze3d/Vertex/BufferBuilder.md
+        - Blaze3D: reference/Mojang/Blaze3d/Blaze3D.md
+      - Math:
+        - Axis: reference/Mojang/Math/Axis.md
+      - RealmsClient:
+        - RealmsAvailability: reference/Mojang/RealmsClient/RealmsAvailability.md
+    - MCP:
+      - Start: reference/MCP/Start.md
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true

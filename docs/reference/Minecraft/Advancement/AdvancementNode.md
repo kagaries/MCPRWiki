@@ -4,7 +4,7 @@
 public class AdvancementNode
 ```
 
-### Constructer
+### Constructor
 ```java
 @VisibleForTesting
 public AdvancementNode(AdvancementHolder p_300583_, @Nullable AdvancementNode p_299774_) {

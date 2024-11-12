@@ -4,7 +4,7 @@
 public record Advancement(Optional<ResourceLocation> parent, Optional<DisplayInfo> display, AdvancementRewards rewards, Map<String, Criterion<?>> criteria, AdvancementRequirements requirements, boolean sendsTelemetryEvent, Optional<Component> name)
 ```
 
-### Constructer
+### Constructor
 ```java
 public Advancement(Optional<ResourceLocation> p_299284_, Optional<DisplayInfo> p_301017_, AdvancementRewards p_286389_, Map<String, Criterion<?>> p_286635_, AdvancementRequirements p_300504_, boolean p_286478_) {
     this(p_299284_, p_301017_, p_286389_, Map.copyOf(p_286635_), p_300504_, p_286478_, p_301017_.map(Advancement::decorateName));

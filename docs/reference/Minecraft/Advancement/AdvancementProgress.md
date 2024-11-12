@@ -4,7 +4,7 @@
 public class AdvancementProgress implements Comparable<AdvancementProgress>
 ```
 
-### Constructer
+### Constructor
 ```java
 private AdvancementProgress(Map<String, CriterionProgress> p_144358_) {
     this.criteria = p_144358_;
