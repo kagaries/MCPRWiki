@@ -1,6 +1,6 @@
 site_name: MCPReborn Wiki
-site_url: https://archerv123456.github.io/MCPRWiki/
-repo_url: https://github.com/archerv123456/MCPRWiki
+site_url: https://kagaries.github.io/MCPRWiki/
+repo_url: https://github.com/kagaries/MCPRWiki
 extra_css:
   - css/index.css
 theme:
