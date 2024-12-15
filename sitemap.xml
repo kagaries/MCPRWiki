@@ -2,434 +2,438 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/contact/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/guides/guideHome/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/guides/Basics/FirstModification/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/guides/Beginner/BasicKnowledge/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/guides/Beginner/Resources/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/guides/Beginner/items/Foods/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/guides/Beginner/items/Items/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/guides/Beginner/mobeffects/EffectClasses/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/guides/Intermediate/YouandData/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
+    </url>
+    <url>
+         <loc>https://kagaries.github.io/MCPRWiki/guides/Intermediate/Entities/Basics/</loc>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/home/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/MCP/Start/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/BlockUtil/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Advancement/Advancement/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Advancement/AdvancementHolder/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Advancement/AdvancementNode/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Advancement/AdvancementProgress/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Advancement/AdvancementRequirements/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Advancement/Critereon/AbstractCriterionTriggerInstance/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/AttackIndicatorStatus/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/Animation/AnimationChannel/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/Animation/Definitions/CamelAnimation/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/Color/Block/BlockColor/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/Color/Item/ItemColor/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/GUI/ComponentPath/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/GUI/Components/AbstractButton/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/GUI/Components/DebugChart/AbstractDebugChart/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/GUI/Components/Events/AbstractContainerEventHandler/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/GUI/Components/Spectator/SpectatorGui/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/GUI/Components/Tabs/GridLayoutTab/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/GUI/Components/Toasts/AdvancementToast/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/GUI/Font/AllMissingGlyphProvider/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/GUI/Font/Glyphs/BakedGlyph/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/GUI/Font/Providers/BitmapProvider/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/GUI/Layouts/AbstractLayout/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/GUI/Narration/NarratableEntry/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/GUI/Navigation/CommonInputs/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/GUI/Screens/AccessibilityOnboardingScreen/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/GUI/Screens/Achievement/StatsScreen/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/GUI/Screens/Advancements/AdvancementsScreen/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/GUI/Screens/Controls/ControlsScreen/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/GUI/Screens/Debug/GameModeSwitcherScreen/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/GUI/Screens/Inventory/AbstractCommandBlockEditScreen/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/GUI/Screens/Inventory/Tooltip/BelowOrAboveWidgetTooltipPositioner/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/GUI/Screens/Multiplayer/JoinMultiplayerScreen/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/GUI/Screens/Packs/PackSelectionModel/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/GUI/Screens/RecipeBook/AbstractFurnaceRecipeBookComponent/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/GUI/Screens/Reporting/AbstractReportScreen/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/GUI/Screens/Social/PlayerEntry/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/GUI/Screens/Telemetry/TelemetryEventWidget/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/GUI/Screens/WorldSelection/ConfirmExperimentalFeaturesScreen/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/GUI/Spectator/PlayerMenuItem/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/GUI/Spectator/Categories/SpectatorPage/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/Main/GameConfig/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/Model/AbstractZombieModel/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/Model/Dragon/DragonHeadModel/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/Model/GEOM/EntityModelSet/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/Model/GEOM/Builders/CubeDefinition/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/Multiplayer/AccountProfileKeyPairManager/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/Multiplayer/Chat/ChatListener/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/Multiplayer/Chat/Report/AbuseReportSender/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/Multiplayer/Prediction/BlockStatePredictionHandler/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/Multiplayer/Resolver/AddressCheck/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/Particle/AshParticle/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/Player/AbstractClientPlayer/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/Player/Inventory/Hotbar/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/Profiling/ClientMetricsSamplersProvider/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/Quickplay/QuickPlay/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/Renderer/BiomeColors/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/Renderer/Block/BlockModelShaper/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/Renderer/Block/Model/BakedQuad/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/Renderer/Block/Model/MultiPart/AndCondition/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/Renderer/BlockEntity/BannerRenderer/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/Renderer/Chunk/RenderChunk/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/Renderer/Culling/Frustum/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/Renderer/Debug/BeeDebugRenderer/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/Renderer/Entity/AbstractHorseRenderer/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/Renderer/Entity/Layers/ArrowLayer/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/Renderer/Entity/Player/PlayerRenderer/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/Renderer/Item/ClampedItemPropertyFunction/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/Renderer/Texture/AbstractTexture/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/Renderer/Texture/Atlas/SpriteResourceLoader/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/Renderer/Texture/Atlas/Sources/DirectoryLister/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/Resources/ClientPackSource/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/Resources/Langague/ClientLanguage/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/Resources/Metadata/Animation/AnimationFrame/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/Resources/Metadata/GUI/GuiMetadataSection/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/Resources/Metadata/Langague/LanguageMetadataSection/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/Resources/Metadata/Texture/TextureMetadataSection/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/Resources/Model/AtlasSet/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/Resources/Sounds/AbstractSoundInstance/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/SearchTree/FullTextSearchTree/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/Server/IntegratedPlayerList/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/Sounds/AudioStream/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/Telemetry/ClientTelemetryManager/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/Telemetry/Events/AggregatedTelemetryEvent/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Minecraft/Client/Tutorial/BundleTutorial/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Mojang/Blaze3d/Blaze3D/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Mojang/Blaze3d/Audio/Channel/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Mojang/Blaze3d/Font/SpaceProvider/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Mojang/Blaze3d/Pipeline/MainTarget/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Mojang/Blaze3d/Platform/ClipboardManager/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Mojang/Blaze3d/PreProcessor/GlslPreprocessor/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Mojang/Blaze3d/Shaders/AbstractUniform/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Mojang/Blaze3d/Systems/RenderSystem/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Mojang/Blaze3d/Vertex/BufferBuilder/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Mojang/Math/Axis/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
     <url>
          <loc>https://kagaries.github.io/MCPRWiki/reference/Mojang/RealmsClient/RealmsAvailability/</loc>
-         <lastmod>2024-11-12</lastmod>
+         <lastmod>2024-12-15</lastmod>
     </url>
 </urlset>
