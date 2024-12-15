@@ -31,7 +31,7 @@ Once there we can starting adding a new effect, to get started type in:
 public static final MobEffect NAME = register("name", (new MobEffect(MobEffectCategory.BENEFICIAL, 3402751)));
 ```
 
-This creates and registers the new effect for us to use! The ```"name"``` is the name id of the effect **MAKE SURE IT NOT SOMETHING THAT ALREADY EXISTS**, It **WILL** make a conflict if you do. Also make sure there are **no special characters** (_, !, ., etc.), or **uppercase** keys.
+This creates and registers the new effect for us to use! The ```"name"``` is the name id of the effect **MAKE SURE IT NOT SOMETHING THAT ALREADY EXISTS**, It **WILL** make a conflict if you do. Also make sure there are **no special characters** (', !, ., etc.), or **uppercase** keys.
 
 The ```new MobEffect()``` part creates the effect itself, the ```MobEffectCategory``` within the ```new MobEffect()``` determines if its on the top row (BENEFICIAL) or bottom row (NEUTRAL/HARMFUL), the ```3402751``` is just the color in decimal.
 
