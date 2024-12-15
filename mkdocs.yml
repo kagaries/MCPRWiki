@@ -33,6 +33,8 @@ nav:
             - EffectClasses: guides/Beginner/mobeffects/EffectClasses.md
         - Intermediate:
           - Data and You: guides/Intermediate/YouandData.md
+          - Entities:
+            - Basics: guides/Intermediate/Entities/Basics.md
   - Reference:
     - Home: reference/home.md
     - Minecraft:
