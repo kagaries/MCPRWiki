@@ -15,7 +15,7 @@ Entities will usually extend something like the 'Monster' class or the 'Animal' 
 
 ## EntityType (Entity Registering)
 
-When you create an entity class, the game doesn't automagically know that entity exists. The way the game is able to know that entity exists and use that entity in spawning, rendering, etc.. Registering an entity is fairly simple, you'll need to know a couple of things before creating yours though. 
+When you create an entity class, the game doesn't automagically know that entity exists. The way the game is able to know that entity exists and use that entity in spawning, rendering, etc. is through **Registering**. Registering an entity is fairly simple, you'll need to know a couple of things before creating yours though. 
 
 First, you'll want to have an entity class prepared, this is required since we need to create a new one when registering:
 
