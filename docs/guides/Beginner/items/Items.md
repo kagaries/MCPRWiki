@@ -214,7 +214,7 @@ To use it, just replace ``Tiers.GOLD`` with ``Tiers.EMERALD``.
 
 ## Custom Textures
 
-If you followed the [Resources](./Resources.md) guide from before, all you'll need to do to add a texture is go to ```assets/minecraft/textures/items``` and add the texture there, after that, just replace ```"layer0": "minecraft:item/acacia_boat"``` with ```"layer0": "minecraft:item/TEXTURE_NAME"``` and it should work.
+If you followed the [Resources](../Resources.md) guide from before, all you'll need to do to add a texture is go to ```assets/minecraft/textures/items``` and add the texture there, after that, just replace ```"layer0": "minecraft:item/acacia_boat"``` with ```"layer0": "minecraft:item/TEXTURE_NAME"``` and it should work.
 
 ## Closing
 
