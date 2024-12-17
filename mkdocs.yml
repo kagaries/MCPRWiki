@@ -35,6 +35,8 @@ nav:
           - Data and You: guides/Intermediate/YouandData.md
           - Entities:
             - Basics: guides/Intermediate/Entities/Basics.md
+            - Making Your First Entity: guides/Intermediate/Entities/MakingFirstEntity.md
+            - Renderering: guides/Intermediate/Entities/Renderering.md
   - Reference:
     - Home: reference/home.md
     - Minecraft:
