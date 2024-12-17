@@ -14,7 +14,7 @@
         <link rel="prev" href="../../YouandData/">
       
       
-        <link rel="next" href="../../../../reference/home/">
+        <link rel="next" href="../MakingFirstEntity/">
       
       
       <link rel="icon" href="../../../../assets/images/favicon.png">
@@ -880,6 +880,10 @@
       
         
       
+        
+      
+        
+      
     
     
       
@@ -1005,6 +1009,48 @@
   
 </nav>
       
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../MakingFirstEntity/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Making Your First Entity
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Renderering/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Renderering
+  </span>
+  
+
+      </a>
     </li>
   
 
@@ -8425,7 +8471,7 @@
 <em>This is the Mob class which the PathfinderMob uses</em></p>
 <p>Entities will usually extend something like the 'Monster' class or the 'Animal' class. These have many of the important things for the entitiy to use (like Pathfinding, important methods, and other things of the such). These classes are used in the EntityType class to register the entity to be able to be used later in a Renderer or spawning.</p>
 <h2 id="entitytype-entity-registering">EntityType (Entity Registering)</h2>
-<p>When you create an entity class, the game doesn't automagically know that entity exists. The way the game is able to know that entity exists and use that entity in spawning, rendering, etc.. Registering an entity is fairly simple, you'll need to know a couple of things before creating yours though. </p>
+<p>When you create an entity class, the game doesn't automagically know that entity exists. The way the game is able to know that entity exists and use that entity in spawning, rendering, etc. is through <strong>Registering</strong>. Registering an entity is fairly simple, you'll need to know a couple of things before creating yours though. </p>
 <p>First, you'll want to have an entity class prepared, this is required since we need to create a new one when registering:</p>
 <div class="language-java highlight"><pre><span></span><code><span id="__span-1-1"><a id="__codelineno-1-1" name="__codelineno-1-1" href="#__codelineno-1-1"></a><span class="kd">public</span><span class="w"> </span><span class="kd">static</span><span class="w"> </span><span class="kd">final</span><span class="w"> </span><span class="n">EntityType</span><span class="o">&lt;</span><span class="n">Piglin</span><span class="o">&gt;</span><span class="w"> </span><span class="n">PIGLIN</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">register</span><span class="p">(</span><span class="s">&quot;piglin&quot;</span><span class="p">,</span><span class="w"> </span><span class="n">EntityType</span><span class="p">.</span><span class="na">Builder</span><span class="p">.</span><span class="na">of</span><span class="p">(</span><span class="n">Piglin</span><span class="p">::</span><span class="k">new</span><span class="p">));</span>
 </span></code></pre></div>

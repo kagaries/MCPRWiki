@@ -958,6 +958,10 @@
       
         
       
+        
+      
+        
+      
     
     
       
@@ -1003,6 +1007,48 @@
   
   <span class="md-ellipsis">
     Basics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Intermediate/Entities/MakingFirstEntity/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Making Your First Entity
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Intermediate/Entities/Renderering/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Renderering
   </span>
   
 
@@ -8444,7 +8490,7 @@
 <p>Once there we can starting adding a new effect, to get started type in:</p>
 <div class="language-java highlight"><pre><span></span><code><span id="__span-1-1"><a id="__codelineno-1-1" name="__codelineno-1-1" href="#__codelineno-1-1"></a><span class="kd">public</span><span class="w"> </span><span class="kd">static</span><span class="w"> </span><span class="kd">final</span><span class="w"> </span><span class="n">MobEffect</span><span class="w"> </span><span class="n">NAME</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">register</span><span class="p">(</span><span class="s">&quot;name&quot;</span><span class="p">,</span><span class="w"> </span><span class="p">(</span><span class="k">new</span><span class="w"> </span><span class="n">MobEffect</span><span class="p">(</span><span class="n">MobEffectCategory</span><span class="p">.</span><span class="na">BENEFICIAL</span><span class="p">,</span><span class="w"> </span><span class="mi">3402751</span><span class="p">)));</span>
 </span></code></pre></div>
-<p>This creates and registers the new effect for us to use! The <code>"name"</code> is the name id of the effect <strong>MAKE SURE IT NOT SOMETHING THAT ALREADY EXISTS</strong>, It <strong>WILL</strong> make a conflict if you do. Also make sure there are <strong>no special characters</strong> (_, !, ., etc.), or <strong>uppercase</strong> keys.</p>
+<p>This creates and registers the new effect for us to use! The <code>"name"</code> is the name id of the effect <strong>MAKE SURE IT NOT SOMETHING THAT ALREADY EXISTS</strong>, It <strong>WILL</strong> make a conflict if you do. Also make sure there are <strong>no special characters</strong> (', !, ., etc.), or <strong>uppercase</strong> keys.</p>
 <p>The <code>new MobEffect()</code> part creates the effect itself, the <code>MobEffectCategory</code> within the <code>new MobEffect()</code> determines if its on the top row (BENEFICIAL) or bottom row (NEUTRAL/HARMFUL), the <code>3402751</code> is just the color in decimal.</p>
 <p>From there you can start the game, and give yourself the effect! One thing you will notice is the <code>effect.minecraft.name</code> rather then <code>name</code> for the effect display name. You can learn how to set up resources <a href="../../Beginner/Resources/">here</a>.</p>
 <h3 id="attributes">Attributes</h3>
