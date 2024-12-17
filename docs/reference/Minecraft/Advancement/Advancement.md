@@ -12,6 +12,8 @@ public Advancement(Optional<ResourceLocation> p_299284_, Optional<DisplayInfo> p
 ```
 
 ### decorateName
+Decorates the name of the advancement based on the input display info
+
 ```java
 private static Component decorateName(DisplayInfo p_300038_) {
     Component component = p_300038_.getTitle();
@@ -25,6 +27,8 @@ private static Component decorateName(DisplayInfo p_300038_) {
 ```
 
 ### name
+Returns the name Component of the Advancement
+
 ```java
 public static Component name(AdvancementHolder p_297556_) {
     return p_297556_.value().name().orElseGet(() -> {
@@ -34,6 +38,8 @@ public static Component name(AdvancementHolder p_297556_) {
 ```
 
 ### serializeToJson
+serializes the advancement to a json object to be used in game
+
 ```java
 public JsonObject serializeToJson() {
     JsonObject jsonobject = new JsonObject();
@@ -58,6 +64,8 @@ public JsonObject serializeToJson() {
 ```
 
 ### fromJson
+Get an advancement from a json
+
 ```java
 public static Advancement fromJson(JsonObject p_300691_, DeserializationContext p_300053_) {
     Optional<ResourceLocation> optional = p_300691_.has("parent") ? Optional.of(new ResourceLocation(GsonHelper.getAsString(p_300691_, "parent"))) : Optional.empty();
@@ -82,6 +90,7 @@ public static Advancement fromJson(JsonObject p_300691_, DeserializationContext 
 ```
 
 ### write
+Writes the advancement info to a FriendlyByteBuf
 ```java
 public void write(FriendlyByteBuf p_299393_) {
     p_299393_.writeOptional(this.parent, FriendlyByteBuf::writeResourceLocation);
@@ -94,6 +103,7 @@ public void write(FriendlyByteBuf p_299393_) {
 ```
 
 ### read
+Reads the advancement from a FriendlyByteBuf
 ```java
 public static Advancement read(FriendlyByteBuf p_300670_) {
     return new Advancement(p_300670_.readOptional(FriendlyByteBuf::readResourceLocation), p_300670_.readOptional(DisplayInfo::fromNetwork), AdvancementRewards.EMPTY, Map.of(), new AdvancementRequirements(p_300670_), p_300670_.readBoolean());
@@ -101,6 +111,7 @@ public static Advancement read(FriendlyByteBuf p_300670_) {
 ```
 
 ### isRoot
+Returns if this is a root advancement or not
 ```java
 public boolean isRoot() {
     return this.parent.isEmpty();
@@ -110,6 +121,7 @@ public boolean isRoot() {
 ### Builder Class
 
 #### advancement
+Returns a new Advancement Builder with a telemetry event
 ```java
 public static Advancement.Builder advancement() {
     return (new Advancement.Builder()).sendsTelemetryEvent();
@@ -117,6 +129,7 @@ public static Advancement.Builder advancement() {
 ```
 
 #### recipeAdvancement
+Returns a new Advancement Builder
 ```java
 public static Advancement.Builder recipeAdvancement() {
     return new Advancement.Builder();
@@ -124,6 +137,7 @@ public static Advancement.Builder recipeAdvancement() {
 ```
 
 #### parent
+Sets the parent of the advancement, then returns the advancement
 ```java
 public Advancement.Builder parent(AdvancementHolder p_300513_) {
     this.parent = Optional.of(p_300513_.id());
@@ -132,6 +146,7 @@ public Advancement.Builder parent(AdvancementHolder p_300513_) {
 ```
 
 #### parent (Deprecated)
+Sets the parent of the advancement, then returns the advancement
 ```java
 public Advancement.Builder parent(ResourceLocation p_138397_) {
     this.parent = Optional.of(p_138397_);
@@ -140,6 +155,7 @@ public Advancement.Builder parent(ResourceLocation p_138397_) {
 ```
 
 #### display (ItemStack)
+Returns the display of the advancement from a new DisplayInfo using an ItemStack
 ```java
 public Advancement.Builder display(ItemStack p_138363_, Component p_138364_, Component p_138365_, @Nullable ResourceLocation p_138366_, FrameType p_138367_, boolean p_138368_, boolean p_138369_, boolean p_138370_) {
     return this.display(new DisplayInfo(p_138363_, p_138364_, p_138365_, p_138366_, p_138367_, p_138368_, p_138369_, p_138370_));
@@ -147,6 +163,7 @@ public Advancement.Builder display(ItemStack p_138363_, Component p_138364_, Com
 ```
 
 #### display (ItemLike)
+Returns the display of the advancement from a new DisplayInfo using an ItemLike class
 ```java
 public Advancement.Builder display(ItemLike p_138372_, Component p_138373_, Component p_138374_, @Nullable ResourceLocation p_138375_, FrameType p_138376_, boolean p_138377_, boolean p_138378_, boolean p_138379_) {
     return this.display(new DisplayInfo(new ItemStack(p_138372_.asItem()), p_138373_, p_138374_, p_138375_, p_138376_, p_138377_, p_138378_, p_138379_));
@@ -154,6 +171,7 @@ public Advancement.Builder display(ItemLike p_138372_, Component p_138373_, Comp
 ```
 
 #### display (DisplayInfo)
+Sets the display of the advancement from DisplayInfo, then returns the advancement
 ```java
 public Advancement.Builder display(DisplayInfo p_138359_) {
     this.display = Optional.of(p_138359_);
@@ -162,6 +180,7 @@ public Advancement.Builder display(DisplayInfo p_138359_) {
 ```
 
 #### rewards (Builder)
+Returns the rewards of the advancement from a AdvancementRewards.Builder
 ```java
 public Advancement.Builder rewards(AdvancementRewards.Builder p_138355_) {
     return this.rewards(p_138355_.build());
@@ -169,6 +188,7 @@ public Advancement.Builder rewards(AdvancementRewards.Builder p_138355_) {
 ```
 
 #### rewards
+Sets the rewards from a AdvancementRewards then returns the advancement
 ```java
 public Advancement.Builder rewards(AdvancementRewards p_138357_) {
     this.rewards = p_138357_;
@@ -177,6 +197,7 @@ public Advancement.Builder rewards(AdvancementRewards p_138357_) {
 ```
 
 #### addCriterion
+Adds a criterion from a string and Criterion<?> object, then returns the advancement
 ```java
 public Advancement.Builder addCriterion(String p_138384_, Criterion<?> p_138385_) {
     this.criteria.put(p_138384_, p_138385_);
@@ -185,6 +206,7 @@ public Advancement.Builder addCriterion(String p_138384_, Criterion<?> p_138385_
 ```
 
 #### requirements (Strategy)
+Sets the requirementsStragtegy from an AdvancementRequirements.Strategy, then returns the advancement
 ```java
 public Advancement.Builder requirements(AdvancementRequirements.Strategy p_298091_) {
     this.requirementsStrategy = p_298091_;
@@ -193,6 +215,7 @@ public Advancement.Builder requirements(AdvancementRequirements.Strategy p_29809
 ```
 
 #### requirements
+Sets the requriements from an AdvancementRequirements, then returns the advancement
 ```java
 public Advancement.Builder requirements(AdvancementRequirements p_300756_) {
     this.requirements = Optional.of(p_300756_);
@@ -201,6 +224,7 @@ public Advancement.Builder requirements(AdvancementRequirements p_300756_) {
 ```
 
 #### sendsTelemetryEvent
+Sets sendsTelemetryEvent to true, then returns the advancement
 ```java
 public Advancement.Builder sendsTelemetryEvent() {
     this.sendsTelemetryEvent = true;
@@ -209,6 +233,7 @@ public Advancement.Builder sendsTelemetryEvent() {
 ```
 
 #### build
+Builds an advancement from a resourcelocation, and the set data from the builder. Returns a new AdvanementHolder
 ```java
 public AdvancementHolder build(ResourceLocation p_138404_) {
     Map<String, Criterion<?>> map = this.criteria.buildOrThrow();
@@ -220,6 +245,7 @@ public AdvancementHolder build(ResourceLocation p_138404_) {
 ```
 
 #### save
+Builds a AdvancementHolder from a String, and accepts the Advancement
 ```java
 public AdvancementHolder save(Consumer<AdvancementHolder> p_138390_, String p_138391_) {
     AdvancementHolder advancementholder = this.build(new ResourceLocation(p_138391_));

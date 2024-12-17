@@ -54,7 +54,7 @@ This is my (@kagaries) first wiki ever, so it's probably very lack luster and cl
 
 <!--    [Reference](./) -->
 
--   __Kaizo Edition__
+-   __Magia Edition__
 
     ---
 
