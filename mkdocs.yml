@@ -1,10 +1,13 @@
 site_name: MCPReborn Wiki
 site_url: https://kagaries.github.io/MCPRWiki/
 repo_url: https://github.com/kagaries/MCPRWiki
+repo_name: kagaries/MCPRWiki
 extra_css:
   - css/index.css
 theme:
   name: material
+  logo: assets/icon.png
+  favicon: assets/icon.png
   palette:
     scheme: slate
   icon:

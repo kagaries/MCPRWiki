@@ -62,6 +62,6 @@ This is my (@kagaries) first wiki ever, so it's probably very lack luster and cl
 
     ---
 
-    [Github](https://github.com/archerv123456/kaizo-editon-public) | [Latest Release](https://github.com/archerv123456/kaizo-editon-public/releases/latest)
+    [Github](https://github.com/kagaries/magia-edition-public) | [Latest Release](https://github.com/kagaries/magia-edition-public/releases/latest)
 
 </div>
